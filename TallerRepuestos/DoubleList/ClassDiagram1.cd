@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DoubleList.Node&lt;T&gt;">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoubleList.DoubleLinkedList&lt;T&gt;">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAAEEAAQQAAAAAAARAAAAIAAAAAEBEII=</HashCode>
+      <FileName>DoubleLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Shared.ILinkedList&lt;T&gt;">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
